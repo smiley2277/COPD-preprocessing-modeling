@@ -22,3 +22,12 @@ Model testing
 
 **feature_engineer.ipynb**
 - Plotting data distribution of each column in 0 and 1
+
+## Installation
+Step 1: git clone
+```
+git clone https://github.com/smiley2277/COPD-preprocessing-modeling
+```
+
+Step 2: setting up all environment
+
